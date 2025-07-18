@@ -1,15 +1,3 @@
-/****************************************************************************************************************************
-  WebServer.ino - Simple Arduino web server sample for Ethernet shield
-
-  For Ethernet shields using ESP32_W5500 (ESP32 + W5500)
-
-  WebServer_ESP32_W5500 is a library for the ESP32 with Ethernet W5500 to run WebServer
-
-  Based on and modified from ESP32-IDF https://github.com/espressif/esp-idf
-  Built by Khoi Hoang https://github.com/khoih-prog/WebServer_ESP32_W5500
-  Licensed under GPLv3 license
- *****************************************************************************************************************************/
-
 #if !( defined(ESP32) )
   #error This code is designed for (ESP32 + W5500) to run on ESP32 platform! Please check your Tools->Board setting.
 #endif
