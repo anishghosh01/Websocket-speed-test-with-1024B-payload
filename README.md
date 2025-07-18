@@ -5,4 +5,6 @@ Step1:- To run the python app first enter into the virtual environment using the
 
 Step2:- After entering into the virtual environment, use the following command to run the app:- python .\app.py
 
-After successfully uploading the speed_test.ino into the ESP32, open the local host ip displayed in the terminal (as shown in the terminal of Step 1).
+After successfully uploading the speed_test_1kb.ino into the ESP32, open the local host ip displayed in the terminal (as shown in the terminal of Step 1).
+
+Now you will see the speed on the WebApp hosted on your browser.
